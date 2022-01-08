@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For ThingsBoard
+# Syntax Coloring Map For CafeIOT
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-ThingsBoard	KEYWORD1
+CafeIOT	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)

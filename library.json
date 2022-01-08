@@ -1,12 +1,12 @@
 {
-    "name": "Iotkaran",
-    "keywords": "m2m, iot, Iotkaran",
-    "description": "A library for connecting to the Iotkaran IoT platform.",
+    "name": "CafeIOT",
+    "keywords": "m2m, iot, CafeIOT",
+    "description": "A library for connecting ESP32 to the Cloud CafeIot.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/iotkaran/Arduino"
+        "url": "https://github.com/cafeiot/CafeIOT_Esp8266"
     },
-    "version": "0.5",
+    "version": "0.1",
    
     "frameworks": "arduino"
 }
